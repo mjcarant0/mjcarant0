@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Marjoy</h1>
 <h3 align="center">A passionate computer engineering student from Polytechnic University of the Philippines</h3>
 
 - 🌱 I’m currently learning **Frontend and Backend Development**
